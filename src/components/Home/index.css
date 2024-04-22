@@ -1,0 +1,837 @@
+@media screen and (min-width: 768px) {
+  .topContainer {
+    background: linear-gradient(
+        240deg,
+        rgba(23, 23, 23, 0.88) 1.03%,
+        rgba(18, 18, 18, 0.92) 18.18%,
+        rgba(1, 1, 1, 0) 35.15%
+      ),
+      url('https://s3-alpha-sig.figma.com/img/c1af/953f/807faed30071845860b212ed47717559?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=IHZz7ngJyjHmSF3Xm~Mbmvsh6XIGK9xbBYq-L7n5ZTjCHFEQbQr1XyMV0WG-YCDnhsIkxbvKacEjSMcM7IEPcK3Q4Jd4BbMPu19w7-T5~mzrToEY558ThHLz3JHbOgpzwhLkbcD37ZT9hFAnO3yx98Fm4By3YMFtyS-53wCc7Ew8wt4EBlyLzKbMuXck9MiKZLQuUo9Ix-dAeooFTnes0gZmB6JwfOhpz8JPT1jASjmtgXJ1UKtMpOGHh-jGZtoSSRJYYD8cGJDRcnOYTjke7b~xJ4DhrZaWzU-tX~Z35mdUZSoItA9bH8nbD0rWXmKnMiL84ppuGNQxQYEo9uhJjA__');
+    width: 1268px;
+    height: 640px;
+    top: 79px;
+    left: 1440px;
+    gap: 0px;
+    opacity: 0px;
+    angle: -180 deg;
+    background-size: cover;
+    transform: scaleX(-1);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    padding-right: 20px;
+    text-align: center;
+  }
+  .last {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  .button{
+    width: Hug (305px)px;
+height: Fixed (70px)px;
+padding: 28px 40px 21px 40px;
+gap: 10px;
+border-radius: 16px;
+opacity: 0px;
+background: #3A643B;
+border-width: 0px;
+color: #ffffff;
+font-weight: 700;
+  }
+  .bottom {
+    background: #fff7e2;
+    height: 100px;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-top: 10px;
+    padding-left: 10px;
+  }
+  .fjn {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .parad {
+    font-family: 'DINPro-Bold';
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25.2px;
+    text-align: left;
+    color: #3a643b;
+    width: 300px;
+    margin-left: 10px;
+  }
+  .bottomImg {
+    height: 30px;
+    width: 30px;
+  }
+  .topContainerHeading {
+    display: none;
+  }
+  .topContainerParagarph {
+    display: none;
+  }
+  .topContainerpara {
+    display: none;
+  }
+  .topContainerLarge {
+    background-color: #0e1111;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding-left: 300px;
+  }
+  .topContainerParagarphSpan1 {
+    font-family: DINPro;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19.6px;
+    text-align: left;
+    color: #c9c9c9;
+  }
+  .topContainerParagarph1 {
+    font-family: 'DINPro';
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19.6px;
+    text-align: left;
+    color: #c9c9c9;
+  }
+  .bookSpan1 {
+    font-family: 'DINPro-Bold';
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33.6px;
+    text-align: left;
+  }
+  .AyurvedaSpan1 {
+    font-family: 'DINPro-Bold';
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33.6px;
+    text-align: left;
+    text-decoration: underline;
+  }
+  .topContainerHeading1 {
+    font-family: 'DINPro-Bold';
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33.6px;
+    text-align: left;
+    color: #ffffff;
+  }
+  .topContainerpara1 {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: left;
+    color: #fff7e2;
+  }
+  .Discover {
+    font-family: 'DINPro-Bold';
+    font-size: 32px;
+    font-weight: 700;
+    color: #3a643b;
+    text-align: center;
+    width: 400px;
+  }
+  .berubb {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .paraDiscover {
+    font-family: 'DINPro';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: center;
+    color: #666666;
+    width: 500px;
+  }
+  .yogaimg {
+    width: 204.43px;
+    height: 210.53px;
+    border-radius: 0px 0px 0px 0px;
+    opacity: 0px;
+    background-image: url('https://s3-alpha-sig.figma.com/img/328a/02bf/246a02b2aac7549c73dbe7dacc8e2553?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pYu9NXrusfoUofGF4dmrt9sOlqNGlhk1iFon~2cQOfXl0Jmtx8t6AqYcGZev-Mm8ZuY1h-yf-0iNi9uUjBJ0MdLCE6V9m1mMpArVcXQ2iiksV9G9dokeeGj6oOVL92d-~DJzCvubDLcOgrVtVzeSL4bEzwwl7e9km3yOkNCv477ngLWf0oF9aMZilmmr4DlShfa0L5OLPXTlvzac63X9M3ynmCI711V66iMcXR7ui7KjoEYVkJPKyFvWjkQTvBUwQtIZGuIo~a4qUb1A9i56vFmseYn8h98r1S8nVr~BlPJhLdVKLANgcN7bLP7M-Wrcpv~pfalsLB~BcH8KPX1AWQ__');
+    background-size: cover;
+  }
+  .bottomSublist {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 500px;
+    margin-left: 500px;
+  }
+  .textContainer {
+    border: 1px solid #e4e4e4;
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: Hug (180px) px;
+    gap: 10px;
+    opacity: 0px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+  .textImg {
+    width: 42px;
+    height: 42px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .textHeading {
+    font-family: DINPro-Bold;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 19.32px;
+    text-align: center;
+    color: #000000;
+  }
+  .textparagraph {
+    font-family: DINPro;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 16.74px;
+    text-align: center;
+    color: #6d6b6b;
+    width: 200px;
+  }
+  .bg-container {
+    width: 100vw;
+    height: 2402px;
+    top: 2405px;
+    gap: 0px;
+    opacity: 0px;
+    background: #fffaec;
+    text-align: center;
+  }
+  .bg-heading {
+    font-family: DINPro-Bold;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 41.22px;
+    text-align: center;
+    color: #3a643b;
+  }
+  .bg-layout {
+    width: Fixed (328px) px;
+    height: Hug(267px) px;
+    padding: 48px 32px 48px 32px;
+    gap: 8px;
+    border-radius: 20px 20px 0px 0px;
+    border: 5px 0px 0px 0px;
+    opacity: 0px;
+    border-top: 5px solid #3a643b;
+    background-color: #ffffff;
+  }
+  .bg-layoutHeading {
+    font-family: Inknut Antiqua;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 38.16px;
+    text-align: center;
+    color: #3a643b;
+  }
+  .bg-layoutPara {
+    font-family: DINPro;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 19.32px;
+    text-align: center;
+    color: #3a643b;
+  }
+  .oilImg {
+    width: 380px;
+    height: 285px;
+    gap: 0px;
+    border-radius: 20px;
+    border: 5px 0px 0px 0px;
+    opacity: 0px;
+    box-shadow: 0px 4px 8.9px 0px #0000000f;
+    margin-bottom: 16px;
+  }
+  .amuthamOil {
+    background-image: url('https://s3-alpha-sig.figma.com/img/d45f/d3de/6f20e70fa75049c9e8140baa6d7e6531?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pdp3d4xEMgNa1r4BoKz14AUuEz~-6yH0X9efH-KyQlL-~d8AdWxMDCfGkl7xmT1hL0SIX8GaYjzg45C98zdmaEJkgyd1p8jFrGVcI91lJJJvXrORhkejroHcNkBWXJhnlYVtnsLW45gR1VVMPEKw~dUeYMWhEaVwMA30NCHDmsqw79dre8fZ9jZSPqTCBBAeictHIWgjeEt3GnWO38GGo89RSZX6iBj5SMhg4gKlkAQ9ZE1ca8tMfdenEudXuR6WronU52Yu9AqPEbwychCPtM9EePxAlD4T5m~o0vBkB8f0bMtHm37bDeljTaJH6cJDn1oncTRdvsslgtxk5~pzfQ__');
+    width: 363px;
+    height: 592px;
+    top: -2px;
+    left: 363px;
+    gap: 0px;
+    opacity: 0px;
+    angle: -180 deg;
+    background-size: cover;
+    text-align: center;
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 500px;
+  }
+  .amuthamOilHeading {
+    font-family: DINPro;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 41.22px;
+    text-align: center;
+    color: #fff7e2;
+    width: 300px;
+  }
+  .amuthamOilButton {
+    font-family: DIN Medium;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 18.77px;
+    text-align: left;
+    background: #3a643b;
+    width: Hug (257px) px;
+    height: Fixed (66px) px;
+    padding: 24px 40px 21px 40px;
+    gap: 10px;
+    border-radius: 16px;
+    opacity: 0px;
+    color: #fff7e2;
+    border-width: 0px;
+  }
+  .approachHeading {
+    font-family: DINPro-Bold;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 41.22px;
+    text-align: center;
+    color: #3a643b;
+  }
+  .approachPara {
+    font-family: DINPro;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.61px;
+    text-align: center;
+    color: #323232;
+  }
+  .sliderContainer {
+    padding: 40px;
+  }
+  .wkm {
+    width: 358px;
+    height: 328px;
+    top: 7802px;
+    left: 1px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .dietParagarph {
+    font-family: DIN Medium;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: center;
+    color: #000000;
+  }
+  .dietHeading {
+    font-family: DINPro-Bold;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 50.4px;
+    text-align: center;
+    color: #000000;
+  }
+  .lastContainer {
+    width: 100vw;
+    height: 504px;
+    top: 8640px;
+    gap: 0px;
+    opacity: 0px;
+    background: #3a643b2e;
+    margin-left: 50px;
+    padding-left: 20px;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .lastParagraph {
+    font-family: DINPro-Bold;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23.18px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #3a643b;
+  }
+  .lastParagraph1 {
+    font-family: DINPro-Bold;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23.18px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #3a643b;
+    margin-left: 400px;
+  }
+  .lastSupport {
+    font-family: DINPro;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+    color: #474747;
+  }
+  .buttonSubscribe {
+    width: Fixed (121px) px;
+    height: Fixed (54px) px;
+    padding: 14px 17px 14px 17px;
+    gap: 10px;
+    border-radius: 0px 40px 40px 0px;
+    opacity: 0px;
+    background: #000000;
+    color: #ffffff;
+  }
+  .store {
+    width: 270px;
+    height: 80px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .input {
+    width: Hug(303px) px;
+    height: 50px;
+    padding: 1px 1px 1px 24px;
+    gap: 19px;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    opacity: 0px;
+    border: 1px solid #3a643b;
+    color: #000000;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .topContainerHeading1 {
+    display: none;
+  }
+  .button {
+    display: none;
+  }
+  .approachContainer {
+    width: 360px;
+    height: 1059px;
+    top: 7581px;
+    gap: 0px;
+    opacity: 0px;
+    background: #fff7e2;
+    margin-left: 50px;
+  }
+  .topContainerpara1 {
+    display: none;
+  }
+  .topContainerParagarphSpan1 {
+    display: none;
+  }
+  .topContainerParagarph1 {
+    display: none;
+  }
+  .bookSpan1 {
+    display: none;
+  }
+  .AyurvedaSpan1 {
+    display: none;
+  }
+  .topContainerParagarphSpan {
+    font-family: 'DINPro';
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19.6px;
+    text-align: left;
+    color: #c9c9c9;
+  }
+  .topContainerParagarph {
+    font-family: 'DINPro';
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19.6px;
+    text-align: left;
+    color: #c9c9c9;
+  }
+  .bookSpan {
+    font-family: 'DINPro-Bold';
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33.6px;
+    text-align: left;
+  }
+  .AyurvedaSpan {
+    font-family: 'DINPro-Bold';
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33.6px;
+    text-align: left;
+    text-decoration: underline;
+  }
+  .topContainerHeading {
+    font-family: 'DINPro-Bold';
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33.6px;
+
+    color: #ffffff;
+  }
+  .topContainerpara {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    padding-right: 170px;
+    color: #fff7e2;
+  }
+  .topContainer {
+    background: linear-gradient(
+        180deg,
+        rgba(24, 24, 24, 0.87) 0%,
+        rgba(34, 34, 34, 0.48) 100%
+      ),
+      url('https://s3-alpha-sig.figma.com/img/adfc/8fd0/85372b9b89239293b1c75db89c0bf0f4?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=q1rIxTK5MKUTBuvjEOpyrpRQPwjs11G6P-NjmCfBd9Vhf0B1zmwEpXwG9GdRGvzMe5KAD3z7~arEnhyN0niNssklq5eLsMhPaFV27YisXZVSD5VxtoY6cl5E4tRjlpgQRLCzknnbIGBxIIVSYXDSxCTv5RV9reC44TJCVAIrLESIWy7lE4biLYpAdk4LNqt0u53L~KzcShK7CTt6n74CBVneLObKaRhYoAsAtzzmJQWic9qfw9o0wIf-AAsgx3QQJ~d~vqFnMIiQtsKmZ4~QWceI~y0cvbScH1ZUDPdMOdGnxF~4XtKbBxdDzA377J7uBfanQ9cROeNbtMkNgoSjZg__');
+    width: 900px;
+    height: 540px;
+    top: 104px;
+    gap: 0px;
+    opacity: 0px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 30px;
+    text-align: left;
+  }
+  .bottom {
+    background: #fff7e2;
+    height: 350px;
+    width: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-top: 10px;
+    padding-left: 10px;
+  }
+  .bottomItem {
+    border: 2px solid #3a643b;
+    background-color: #ffffff;
+    border-radius: 30px;
+    height: 50px;
+    width: 50px;
+    padding-top: 8px;
+    padding-left: 6px;
+    padding-right: 5px;
+  }
+  .bottomImg {
+    height: 40px;
+    width: 40px;
+  }
+  .fjn {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .parad {
+    font-family: 'DINPro-Bold';
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25.2px;
+    text-align: left;
+    color: #3a643b;
+    margin-left: 10px;
+  }
+  .horizantalLine {
+    border: 3px solid #e9e9e9;
+    width: 1000px;
+  }
+
+  .Discover {
+    font-family: 'DINPro-Bold';
+    font-size: 32px;
+    font-weight: 700;
+    color: #3a643b;
+    text-align: center;
+    width: 400px;
+  }
+  .berubb {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 350px;
+  }
+  .paraDiscover {
+    font-family: 'DINPro';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: center;
+    color: #666666;
+    width: 500px;
+  }
+  .yogaimg {
+    width: 204.43px;
+    height: 210.53px;
+    border-radius: 0px 0px 0px 0px;
+    opacity: 0px;
+    background-image: url('https://s3-alpha-sig.figma.com/img/328a/02bf/246a02b2aac7549c73dbe7dacc8e2553?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pYu9NXrusfoUofGF4dmrt9sOlqNGlhk1iFon~2cQOfXl0Jmtx8t6AqYcGZev-Mm8ZuY1h-yf-0iNi9uUjBJ0MdLCE6V9m1mMpArVcXQ2iiksV9G9dokeeGj6oOVL92d-~DJzCvubDLcOgrVtVzeSL4bEzwwl7e9km3yOkNCv477ngLWf0oF9aMZilmmr4DlShfa0L5OLPXTlvzac63X9M3ynmCI711V66iMcXR7ui7KjoEYVkJPKyFvWjkQTvBUwQtIZGuIo~a4qUb1A9i56vFmseYn8h98r1S8nVr~BlPJhLdVKLANgcN7bLP7M-Wrcpv~pfalsLB~BcH8KPX1AWQ__');
+    background-size: cover;
+  }
+  .bottomSublist {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-left: 110px;
+    width: 500px;
+  }
+  .textContainer {
+    border: 1px solid #e4e4e4;
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: Hug (136px) px;
+    height: Hug (180px) px;
+    gap: 10px;
+    opacity: 0px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+  .textImg {
+    width: 42px;
+    height: 42px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .textHeading {
+    font-family: DINPro-Bold;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 19.32px;
+    text-align: center;
+    color: #000000;
+  }
+  .textparagraph {
+    font-family: DINPro;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 16.74px;
+    text-align: center;
+    color: #6d6b6b;
+    width: 200px;
+  }
+  .bg-container {
+    width: 450px;
+    height: 2302px;
+    top: 2405px;
+    gap: 0px;
+    opacity: 0px;
+    background: #fffaec;
+    margin-left: 160px;
+    text-align: center;
+  }
+  .bg-heading {
+    font-family: DINPro-Bold;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 41.22px;
+    text-align: center;
+    color: #3a643b;
+  }
+  .bg-layout {
+    width: Fixed (328px) px;
+    height: Hug(267px) px;
+    padding: 48px 32px 48px 32px;
+    gap: 8px;
+    border-radius: 20px 20px 0px 0px;
+    border: 5px 0px 0px 0px;
+    opacity: 0px;
+    border-top: 5px solid #3a643b;
+    background-color: #ffffff;
+  }
+  .bg-layoutHeading {
+    font-family: Inknut Antiqua;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 38.16px;
+    text-align: center;
+    color: #3a643b;
+  }
+  .bg-layoutPara {
+    font-family: DINPro;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 19.32px;
+    text-align: center;
+    color: #3a643b;
+  }
+  .oilImg {
+    width: 380px;
+    height: 285px;
+    gap: 0px;
+    border-radius: 20px;
+    border: 5px 0px 0px 0px;
+    opacity: 0px;
+    box-shadow: 0px 4px 8.9px 0px #0000000f;
+    margin-bottom: 16px;
+  }
+  .amuthamOil {
+    background-image: url('https://s3-alpha-sig.figma.com/img/d45f/d3de/6f20e70fa75049c9e8140baa6d7e6531?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pdp3d4xEMgNa1r4BoKz14AUuEz~-6yH0X9efH-KyQlL-~d8AdWxMDCfGkl7xmT1hL0SIX8GaYjzg45C98zdmaEJkgyd1p8jFrGVcI91lJJJvXrORhkejroHcNkBWXJhnlYVtnsLW45gR1VVMPEKw~dUeYMWhEaVwMA30NCHDmsqw79dre8fZ9jZSPqTCBBAeictHIWgjeEt3GnWO38GGo89RSZX6iBj5SMhg4gKlkAQ9ZE1ca8tMfdenEudXuR6WronU52Yu9AqPEbwychCPtM9EePxAlD4T5m~o0vBkB8f0bMtHm37bDeljTaJH6cJDn1oncTRdvsslgtxk5~pzfQ__');
+    width: 363px;
+    height: 592px;
+    top: -2px;
+    left: 363px;
+    gap: 0px;
+    opacity: 0px;
+    angle: -180 deg;
+    background-size: cover;
+    text-align: center;
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .amuthamOilHeading {
+    font-family: DINPro;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 41.22px;
+    text-align: center;
+    color: #fff7e2;
+    width: 300px;
+  }
+  .amuthamOilButton {
+    font-family: DIN Medium;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 18.77px;
+    text-align: left;
+    background: #3a643b;
+    width: Hug (257px) px;
+    height: Fixed (66px) px;
+    padding: 24px 40px 21px 40px;
+    gap: 10px;
+    border-radius: 16px;
+    opacity: 0px;
+    color: #fff7e2;
+    border-width: 0px;
+  }
+  .approachHeading {
+    font-family: DINPro-Bold;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 41.22px;
+    text-align: center;
+    color: #3a643b;
+  }
+  .approachPara {
+    font-family: DINPro;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.61px;
+    text-align: center;
+    color: #323232;
+  }
+  .sliderContainer {
+    padding: 40px;
+  }
+  .wkm {
+    width: 358px;
+    height: 328px;
+    top: 7802px;
+    left: 1px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .dietParagarph {
+    font-family: DIN Medium;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: center;
+    color: #000000;
+  }
+  .dietHeading {
+    font-family: DINPro-Bold;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 50.4px;
+    text-align: left;
+    color: #000000;
+  }
+  .lastContainer {
+    width: 360px;
+    height: 524px;
+    top: 8640px;
+    gap: 0px;
+    opacity: 0px;
+    background: #3a643b2e;
+    margin-left: 50px;
+    padding-left: 20px;
+    padding-top: 20px;
+  }
+  .lastParagraph {
+    font-family: DINPro-Bold;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23.18px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #3a643b;
+  }
+  .lastSupport {
+    font-family: DINPro;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+    color: #474747;
+  }
+  .buttonSubscribe {
+    width: Fixed (121px) px;
+    height: Fixed (54px) px;
+    padding: 14px 17px 14px 17px;
+    gap: 10px;
+    border-radius: 0px 40px 40px 0px;
+    opacity: 0px;
+    background: #000000;
+    color: #ffffff;
+  }
+  .input {
+    width: Hug(303px) px;
+    height: 50px;
+    padding: 1px 1px 1px 24px;
+    gap: 19px;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    opacity: 0px;
+    border: 1px solid #3a643b;
+    color: #000000;
+  }
+}

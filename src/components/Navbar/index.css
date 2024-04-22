@@ -1,0 +1,37 @@
+.navMobile {
+  background: #fff7e2;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.navContainer {
+  background: #fff7e2;
+}
+.img1 {
+  width: 122px;
+  height: 24px;
+  top: 51px;
+  left: 123px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 20px;
+}
+@media screen and (max-width: 768px) {
+  .navContainer {
+    display: none;
+  }
+  .navMobile {
+    width: 900px;
+    height: 40px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .navMobile {
+    display: none;
+  }
+  .navContainer {
+    width: 100vw;
+    height: 4vh;
+  }
+}
